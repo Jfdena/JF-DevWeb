@@ -30,3 +30,12 @@ h1{/*main title*/
     font-family: sans-serif;
     line-height: 30px;
 }
+.profil-texte img{
+    position: relative;
+    top: 50px;
+    left: 100px;
+    margin-left: 10px;
+}
+.profil-texte img:hover{
+    width: 25px;    
+}
